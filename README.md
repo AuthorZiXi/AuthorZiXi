@@ -3,9 +3,11 @@
 -->
 
 ## ChengSiXi24
-Amateur individual developer (student)
+Amateur developer
 
-🔭 I am currently researching and developing a program engine (Orange Visual Presenter, included in the Ovp project).
+[Organization Page](https://github.com/FavouriteSeasons)
+
+🔭 I will use my vacation time to research and develop an ADV engine (Orange Visual Presenter, or Ovp, is included in the Ovp-project).
 
 ⏱️ I think the next project should be a long time away. Thank you for your long wait.
 
