@@ -7,7 +7,7 @@ Amateur developer
 
 [Organization Page](https://github.com/FavouriteSeasons)
 
-🔭 I will use my vacation time to research and develop an ADV engine (Orange Visual Presenter, or Ovp, is included in the Ovp-project).
+🔭 I will use my vacation time to research and develop an ADV engine (Orange Visual Presenter, abbreviated Ovp, is part of the Ovp project).
 
 ⏱️ I think the next project should be a long time away. Thank you for your long wait.
 
