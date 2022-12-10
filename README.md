@@ -6,7 +6,8 @@
 Amateur developer
 
 Description file language
-[CHS](https://github.com/ChengSiXi24/ChengSiXi24/blob/main/README_chs.md)[ENG](https://github.com/ChengSiXi24/ChengSiXi24/blob/main/README.md)
+
+[【CHS】](https://github.com/ChengSiXi24/ChengSiXi24/blob/main/README_chs.md)[【ENG】](https://github.com/ChengSiXi24/ChengSiXi24/blob/main/README.md)
 
 [Organization Page](https://github.com/FavouriteSeasons)
 
