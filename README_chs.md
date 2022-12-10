@@ -1,8 +1,13 @@
-## 橙四希24
-业余开发者
+---
 
 描述文件语言
-[CHS](https://github.com/ChengSiXi24/ChengSiXi24/blob/main/README_chs.md)[ENG](https://github.com/ChengSiXi24/ChengSiXi24/blob/main/README.md)
+
+[【CHS】](https://github.com/ChengSiXi24/ChengSiXi24/blob/main/README_chs.md)[【ENG】](https://github.com/ChengSiXi24/ChengSiXi24/blob/main/README.md)
+
+---
+
+## 橙四希24
+业余开发者
 
 [组织页面](https://github.com/FavouriteSeasons)
 
