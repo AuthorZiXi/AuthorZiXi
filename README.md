@@ -15,7 +15,7 @@ Amateur developer
 
 
 
-[Organization Page](https://github.com/FavouriteSeasons)
+[Organization Page](https://github.com/FavoriteSeasons)
 
 🔭 I will use my vacation time to research and develop an ADV engine (Orange Visual Presenter,abbreviated Ovp, is part of the Ovp project).
 
