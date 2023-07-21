@@ -1,9 +1,8 @@
 [【LANGUAGE HELP】](https://github.com/ChengSiXi24/ChengSiXi24/blob/main/languagehelp.md)
 
 ## ✨橙四希24
-![LOGO](./ChengSiXi.png)
 
-👨‍💻开发者，目标为“创建的软件简单、简洁、方便且个性化程度高”
+👨‍💻个人开发者，目标为“创建的软件简单、简洁、方便且个性化程度高”
  
 ## ☕额外信息
 
