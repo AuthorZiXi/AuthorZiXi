@@ -2,9 +2,9 @@
 
 Hobby programming, usually like to play some VN.
 
-Now living in Jinhua, Zhejiang, student.
+Now living in Jinhua, Zhejiang Province and is a student.
 
-The goal of the software is "to create simple, concise, convenient and rich personalized software".
+The goal of software development is "simple, concise, convenient and rich personalization".
 
 TinySystem and ScnScript are being developed.
 
