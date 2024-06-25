@@ -1,4 +1,4 @@
-#🍂 TeaRed-LeafFall (aka "Author Zixi", this nickname originated from the game I planned to develop)
+# 🍂 TeaRed-LeafFall (aka "Author Zixi", this nickname originated from the game I planned to develop)
 
 Hobby programming, usually like to play some VN.
 
