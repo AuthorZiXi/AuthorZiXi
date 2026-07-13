@@ -1,9 +1,19 @@
-## 作者紫汐（旧名"茶红 落叶"）
+## AuthorZiXi(English)
 
-业余爱好编程，平常喜欢玩一些VN。
+Please try not to disturb. For urgent matters, send an email.
 
-现居浙江金华，学生。
+I do not accept friend requests, and please do not ask for my contact information.
 
-2025.3.15 静态博客网站上线好了！
+I am quite busy, so replies may be delayed.
 
-更多详细信息在[【此静态博客网站】](https://authorzixi.github.io/)提供
+2026.7.13
+
+## 作者紫汐（中文）
+
+请尽量别打扰。急事至邮件。 
+
+不加好友，勿问联系方式。 
+
+较忙碌，回复不及时。 
+
+2026.7.13
